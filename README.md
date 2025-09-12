@@ -6,3 +6,6 @@ XAMPP
 https://sourceforge.net/projects/xampp/
 Команда сhmod +x нужна для того чтобы можно было запустить файл, ./ запускает программу
 https://bom.firpo.ru/Public/2645
+dnf install libxcrypt-compat
+dnf install libnsl
+/opt/lampp/lampp start
