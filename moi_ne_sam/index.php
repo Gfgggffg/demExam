@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой не сам</title>
+    <link rel='icon' href='images/nugget.jpg'>
+    <link rel='stylesheet' href='style/style.css'>
+</head>
+<body>
+    <header>  <img src='images/nugget.jpg' alt='логотип'> 
+    <h1>Мой не сам</h1> 
+</header>
+<nav>
+    <a href='/demExam/moi_ne_sam'>Главное</a>
+    <a href='/demExam/moi_ne_sam/admin'>Админ</a>
+</nav>
+<main>
+</main>
+<footer>2025</footer>
+<script src='script/script.js'></script>
+</body>
+</html>
