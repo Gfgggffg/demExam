@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Нарушений нет</title>
-    <link rel='icon' href='images/nugget.jpg'>
+    <link rel='icon' href='images/11.jpg'>
     <link rel='stylesheet' href='style/style.css'>
 </head>
 <body>
@@ -12,8 +12,8 @@
     <h1>Нарушений нет</h1> 
 </header>
 <nav>
-    <a href='/demExam/moi_ne_sam'>Главное</a>
-    <a href='/demExam/moi_ne_sam/admin'>Админ</a>
+    <a href='/demExam/narusheniamNet'>Главное</a>
+    <a href='/demExam/narusheniamNet/admin'>Админ</a>
 </nav>
 <main>
 <footer>2025</footer>
