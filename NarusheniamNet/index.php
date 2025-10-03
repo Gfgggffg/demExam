@@ -12,8 +12,8 @@
     <h1>Нарушений нет</h1> 
 </header>
 <nav>
-    <a href='/demExam/narusheniamNet'>Главное</a>
-    <a href='/demExam/narusheniamNet/admin'>Админ</a>
+    <a href='/demExam/NarusheniamNet'>Главное</a>
+    <a href='/demExam/NarusheniamNet/admin'>Админ</a>
 </nav>
 <main>
 <footer>2025</footer>
