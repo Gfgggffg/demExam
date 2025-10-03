@@ -9,3 +9,5 @@ https://bom.firpo.ru/Public/2645
 dnf install libxcrypt-compat
 dnf install libnsl
 /opt/lampp/lampp start
+Бд нарушений нет https://docs.google.com/spreadsheets/d/1eHF636F3aghS6g6W6UAqsYN9H0NRF4Soo2nwax1oK40/edit?usp=sharing
+Задание нарушений нет https://docs.google.com/document/d/1uGCcjhcgvYLP1MgqqvHlbupxUgr82bl9/edit?usp=sharing&ouid=107847463537443784073&rtpof=true&sd=true
