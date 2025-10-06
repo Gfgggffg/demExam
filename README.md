@@ -1,13 +1,30 @@
-1.1 На дем.экзамене необходимо уметь работать с веб-сервером(Несколько программ, собранные в одном месте и позволяют делать сайт видимым по IP адресу)
-chmod +x xampp-linux-x64-8.2.12-0-installer.run
-sudo ./xampp-linux-x64-8.2.12-0-installer.run
-XAMPP
-Простой в установке дистрибутив Apache, содержащий MySQL, PHP и Per
-https://sourceforge.net/projects/xampp/
-Команда сhmod +x нужна для того чтобы можно было запустить файл, ./ запускает программу
-https://bom.firpo.ru/Public/2645
-dnf install libxcrypt-compat
-dnf install libnsl
-/opt/lampp/lampp start
-Бд нарушений нет https://docs.google.com/spreadsheets/d/1eHF636F3aghS6g6W6UAqsYN9H0NRF4Soo2nwax1oK40/edit?usp=sharing
-Задание нарушений нет https://docs.google.com/document/d/1uGCcjhcgvYLP1MgqqvHlbupxUgr82bl9/edit?usp=sharing&ouid=107847463537443784073&rtpof=true&sd=true
+## Мой не сам
+____
+- [X] Задание ссылка на документ https://docs.google.com/document/d/1QSNchDmBhZrse4kkzR7AvXpB4IhjIrictfMfLTE4t8c/edit?usp=sharing
+    - [X] Выделены таблицы
+    - [X] Выделены данные в таблицах
+- [X] База данных ссылка на таблицу и скрипт
+    - [X] Лист гугл таблицы на котором все данные
+    - [X] Скрин ER диаграммы на этом же листе
+    - [X] Листы с данными для импорта
+    - [X] Файл скрипта .sql
+- [X] Код должен быть в папке
+    - [X] Иконка, логотип и название
+    - [X] Навигационная панель и ссылки работают
+    - [X] Есть стили
+
+    
+## Нарушениям нет
+____
+- [X] Задание ссылка на документ https://docs.google.com/document/d/1uGCcjhcgvYLP1MgqqvHlbupxUgr82bl9/edit?usp=sharing&ouid=107847463537443784073&rtpof=true&sd=true
+    - [ ] Выделены таблицы
+    - [ ] Выделены данные в таблицах
+- [ ] База данных ссылка на таблицу и скрипт
+    - [ ] Лист гугл таблицы на котором все данные
+    - [ ] Скрин ER диаграммы на этом же листе
+    - [ ] Листы с данными для импорта
+    - [ ] Файл скрипта .sql
+- [ ] Код должен быть в папке
+    - [ ] Иконка, логотип и название
+    - [ ] Навигационная панель и ссылки работают
+    - [ ] Есть стили
